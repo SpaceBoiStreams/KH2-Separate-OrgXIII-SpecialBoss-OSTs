@@ -2,9 +2,13 @@
 A surprisingly simple mod that adds something that should've been there a while ago: Unique Boss themes for the Organization Members
 
 Hey there! As a heads up, this was originally intended for me to use with my Sonic Music pack to give the Organization more unique themes that honestly are deserved. 
+
 However; upon reflection, I never saw this mod ever become a thing outside of KH2FM Double Plus, so I decided to make it happen for everyone to use as they see fit! 
+
 This mod comes stock with Legacy KH Boss Themes, as well as 1 Final Fantasy OST for the FF Ally Run after HB Demyx. However, I made it easy for these tracks to be changed how anyone would see fit!
+
 Keep in mind, Axel's Music remains untouched as IMO the KH2HD Rendition of 13th Struggle already does him wonders. But, in turn, due to me changing every other members use of that track (as well as Riku) only Axel has this song.
+
 Please enjoy, and don't hesistate to use this mod for any music pack you may do!
 
 For what tracks are used where:
